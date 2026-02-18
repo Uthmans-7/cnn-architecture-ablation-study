@@ -1,6 +1,4 @@
 
-
-```markdown
 #  Intel Image Classification: A CNN Architecture Ablation Study
 
 A systematic deep learning research project investigating the impact of **Network Depth** and **Receptive Field Size (Kernel)** on the classification of natural scenes. This project moves beyond "just training a model" to empirically validate architectural decisions using the [Intel Image Classification Dataset](https://www.kaggle.com/datasets/puneet6060/intel-image-classification).
