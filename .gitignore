@@ -1,0 +1,30 @@
+# Ignore Data
+data/
+intel-image-classification.zip
+
+# Ignore Environment
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Ignore Keys
+kaggle.json
+.env
+
+# --- Heavy Data & Models (NEVER COMMIT THESE) ---
+data/
+ml_models/
+results/
+*.keras
+*.h5
+*.pkl
+*.zip
+
+# --- Environment & Config ---
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+kaggle.json
+.env
